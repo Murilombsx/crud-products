@@ -1,6 +1,6 @@
 # crud-products
 
-Projeto de Angular 9 realizado no Cod3r.
+Este projeto foi realizado para estar realizando o treinamento da utilização do framework Angular,<br/> em que se criou um CRUD de produtos.
 
-Frontend: Angular 9
+Frontend: Angular 9<br/>
 Backend: JSON Server
