@@ -4,3 +4,5 @@ Este projeto foi realizado para estar realizando o treinamento da utilização d
 
 Frontend: Angular 9<br/>
 Backend: JSON Server
+
+Realizado no curso Angular 9 - Essencial do Cod3r.
